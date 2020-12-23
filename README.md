@@ -34,6 +34,6 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 The Files
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too:
 
-chicago.csv
-new_york_city.csv
-washington.csv
+chicago.csv 
+new_york_city.csv 
+washington.csv 
